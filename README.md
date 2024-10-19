@@ -1,4 +1,4 @@
-# Exclusive Canva Pro Pricing: Just $8/Month!
+# Canva Pro Pricing: Just $8/Month!
 
 **Canva Pro: Standard vs Special Offer**
 
