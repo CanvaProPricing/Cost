@@ -7,7 +7,7 @@
 | Plan                     | Price                  | Action                          |
 |--------------------------|------------------------|---------------------------------|
 | **Canva Pro (Standard Price)** | **US$15/month**         | [Learn More](https://www.canva.com/pricing/) |
-| **Canva Pro (Special Offer)** | **US$8/month – Same Features!** | [Get Special Offer](#)       |
+| **Canva Pro (Special Offer)** | **US$8/month – Same Features!** | [Get Special Offer](https://www.dzign.org/2ae9c05b)       |
 
 ## Features Included in Both Plans
 
@@ -36,11 +36,11 @@
 
 ## How to get the Special Offer?
 
-1. Click [here](#) to purchase. Enter your name and email, and use PayPal to make the payment. (If you already have a Canva account, please enter the email you used to register.)
+1. Click [here](https://www.dzign.org/2ae9c05b) to purchase. Enter your name and email, and use PayPal to make the payment. (If you already have a Canva account, please enter the email you used to register.)
    
 2. Use the email provided on the checkout page to register for an account on the Canva website.
 
-3.Refresh your Canva dashboard to access Canva Pro. (This usually happens within 1-10 hours after placing your order.)
+3. Refresh your Canva dashboard to access Canva Pro. (This usually happens within 1-10 hours after placing your order.)
 ## FAQs 
 
 ### 1. What is the Canva Pro Special Offer?
