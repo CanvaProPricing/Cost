@@ -7,7 +7,7 @@
 | Plan                     | Price                  | Action                          |
 |--------------------------|------------------------|---------------------------------|
 | **Canva Pro (Standard Price)** | **US$15/month**         | [Learn More](https://www.canva.com/pricing/) |
-| **Canva Pro (Special Offer)** | **US$8/month – Same Features!** | [Get Special Offer](https://www.dzign.org/2ae9c05b)       |
+| **Canva Pro (Special Offer)** | **US$8/month – Same Features!** | [Get Special Offer](https://www.dzign.org/canva)       |
 
 ## Features Included in Both Plans
 
