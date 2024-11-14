@@ -36,7 +36,7 @@
 
 ## How to get the Special Offer?
 
-1. Click [here](https://www.dzign.org/2ae9c05b) to purchase. Enter your name and email, and use PayPal to make the payment. (If you already have a Canva account, please enter the email you used to register.)
+1. Click [here](https://www.dzign.org/canva) to purchase. Enter your name and email, and use PayPal to make the payment. (If you already have a Canva account, please enter the email you used to register.)
    
 2. Use the email provided on the checkout page to register for an account on the Canva website.
 
